@@ -4,7 +4,7 @@
 * Clase que devuelve el nombre de un alumno y su edad 
 *
 * @author Benjamin Mulero Pedrosa
-* @version 1.1
+* @version 2.0
 * @since 2023-02-05
 *
 */

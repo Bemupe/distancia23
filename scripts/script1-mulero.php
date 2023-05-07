@@ -3,7 +3,7 @@
 * 
 * Script de PHP con una clase y dos métodos 
 * @author Benjamin Mulero Pedrosa
-* @version 1.0
+* @version 2.0
 *
 */
 
